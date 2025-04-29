@@ -64,6 +64,5 @@ O arquivo final estará na pasta `dist/`.
 ```
 5. Abra um Pull Request.
 
-## 📜 Licença
-Este projeto está sob a licença MIT.
+
 
